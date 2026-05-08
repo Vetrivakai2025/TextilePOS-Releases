@@ -1,0 +1,9 @@
+{
+  "version": "2.0.2",
+  "versionCode": 20002,
+  "releaseNotes": "Bug fixes and improvements.",
+  "downloadUrlWindows": "https://github.com/Vetrivakai2025/TextilePOS-Releases/releases/download/v2.0.2/TextilePOS-2.0.2-setup.exe",
+  "downloadUrlMac": "https://github.com/Vetrivakai2025/TextilePOS-Releases/releases/download/v2.0.2/TextilePOS-2.0.2.dmg",
+  "isMandatory": false,
+  "installArgs": "/quiet"
+}
