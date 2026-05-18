@@ -6,11 +6,11 @@
   "downloadUrlMac": "https://github.com/Vetrivakai2025/TextilePOS/releases/download/v2.0.1/VetriPOS-2.0.1.dmg",
   "isMandatory": false,
   "minVersionCode": 0,
-  "rolloutPercent": 0,
+  "rolloutPercent": 100,
   "installArgs": "/quiet",
   "updateAvailable": true,
   "sha256Windows": "9fed08f1f03eff90fafa538a200e0b7ece6721b30d26d5ce2ebda46d1fa0a6a8",
   "testMachineIds": [
-    "010203040506"
+    ""
   ]
 }
