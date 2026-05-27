@@ -1,16 +1,16 @@
 {
-  "version": "2.0.34",
-  "versionCode": 20034,
-  "releaseNotes": "VetriPOS v2.0.34 — see GitHub release for details.",
-  "downloadUrlWindows": "https://github.com/Vetrivakai2025/TextilePOS-Releases/releases/download/v2.0.34/VetriPOS-2.0.34-setup.exe",
+  "version": "2.0.35",
+  "versionCode": 20035,
+  "releaseNotes": "VetriPOS v2.0.35 — see GitHub release for details.",
+  "downloadUrlWindows": "https://github.com/Vetrivakai2025/TextilePOS-Releases/releases/download/v2.0.35/VetriPOS-2.0.35-setup.exe",
   "downloadUrlMac": "https://github.com/Vetrivakai2025/TextilePOS/releases/download/v2.0.1/VetriPOS-2.0.1.dmg",
   "isMandatory": false,
   "minVersionCode": 0,
-  "rolloutPercent": 100,
+  "rolloutPercent": 0,
   "installArgs": "/quiet /norestart",
   "updateAvailable": true,
-  "sha256Windows": "a43c4cb8534dc65dec72f07d1b8959548f198ca95457da659597881d064033f3",
+  "sha256Windows": "33ecc77583bef6510a513c13f1cc9b74d4f2bc312d9152f32e1dc1ff665be1e8",
   "testMachineIds": [
-    ""
+    "010203040506"
   ]
 }
