@@ -22,11 +22,11 @@
       "sha256Windows": "78df5ae23ab4eaeb6857f7040c45fabdcce9eb214df078cf8b6d0656e1873032",
       "isMandatory": false,
       "minVersionCode": 0,
-      "rolloutPercent": 0,
+      "rolloutPercent": 100,
       "installArgs": "/quiet /norestart",
       "shopTypes": [],
       "testMachineIds": [
-        "01020304050"
+        ""
       ]
     },
     {
@@ -37,7 +37,7 @@
       "downloadUrlMac": "https://github.com/Vetrivakai2025/TextilePOS/releases/download/v2.0.1/VetriPOS-2.0.1.dmg",
       "isMandatory": false,
       "minVersionCode": 0,
-      "rolloutPercent": 0,
+      "rolloutPercent": 100,
       "installArgs": "/quiet /norestart",
       "sha256Windows": "4426195a7e05e320b7fd92a9275ab6b9abb067beb30c1a26400e42f2ef27e1b1",
       "shopTypes": [],
@@ -45,7 +45,7 @@
       "excludeMachineIds": [],
       "shopUsernames": [],
       "testMachineIds": [
-        "010203040506"
+        ""
       ]
     }
   ]
