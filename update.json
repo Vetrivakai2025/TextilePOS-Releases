@@ -3,13 +3,16 @@
   "versionCode": 20045,
   "releaseNotes": "VetriPOS v2.0.45 — see GitHub release for details.",
   "downloadUrlWindows": "https://github.com/Vetrivakai2025/TextilePOS-Releases/releases/download/v2.0.45/VetriPOS-2.0.45-setup.exe",
-  "sha256Windows": "78df5ae23ab4eaeb6857f7040c45fabdcce9eb214df078cf8b6d0656e1873032",
+  "downloadUrlMac": "https://github.com/Vetrivakai2025/TextilePOS/releases/download/v2.0.1/VetriPOS-2.0.1.dmg",
   "isMandatory": false,
   "minVersionCode": 0,
   "rolloutPercent": 100,
   "installArgs": "/quiet /norestart",
-  "shopTypes": ["SWEETS"],
-  "testMachineIds": [""],
+  "updateAvailable": true,
+  "sha256Windows": "78df5ae23ab4eaeb6857f7040c45fabdcce9eb214df078cf8b6d0656e1873032",
+  "testMachineIds": [
+    ""
+  ],
   "releases": [
     {
       "version": "2.0.45",
@@ -23,7 +26,7 @@
       "installArgs": "/quiet /norestart",
       "shopTypes": [],
       "testMachineIds": [
-        "010203040506"
+        "01020304050"
       ]
     },
     {
@@ -46,4 +49,4 @@
       ]
     }
   ]
-}
+} okay this is my current update.json how to set it to the last update for the shoptypes setts only
