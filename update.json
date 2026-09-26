@@ -17,21 +17,19 @@
     {
       "version": "2.0.49",
       "versionCode": 20049,
-      "releaseNotes": "VetriPOS v2.0.49 — see GitHub release for details.",
+      "releaseNotes": "VetriPOS v2.0.49 — SWEETS shop updates",
       "downloadUrlWindows": "https://github.com/Vetrivakai2025/TextilePOS-Releases/releases/download/v2.0.49/VetriPOS-2.0.49-setup.exe",
       "sha256Windows": "2dcc1925ed06c9809596f51fb47e905b705b35b6ef1b1a1a477ce7b0cd319d4f",
       "isMandatory": false,
       "minVersionCode": 0,
-      "rolloutPercent": 0,
+      "rolloutPercent": 100,
       "installArgs": "/quiet /norestart",
-      "shopTypes": [],
+      "shopTypes": ["SWEETS"],
       "excludeShopTypes": [],
       "onlyMachineIds": [],
       "excludeMachineIds": [],
       "shopUsernames": [],
-      "testMachineIds": [
-        "010203040506"
-      ]
+      "testMachineIds": []
     },
     {
       "version": "2.0.48",
