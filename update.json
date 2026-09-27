@@ -24,7 +24,7 @@
       "minVersionCode": 0,
       "rolloutPercent": 100,
       "installArgs": "/quiet /norestart",
-      "shopTypes": ["restaurant"],
+      "shopTypes": ["RESTAURANT"],
       "excludeShopTypes": [],
       "onlyMachineIds": [],
       "excludeMachineIds": [],
