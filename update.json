@@ -17,21 +17,19 @@
     {
       "version": "2.0.50",
       "versionCode": 20050,
-      "releaseNotes": "VetriPOS v2.0.50 — see GitHub release for details.",
+      "releaseNotes": "VetriPOS v2.0.50 — releases in restaurent pos",
       "downloadUrlWindows": "https://github.com/Vetrivakai2025/TextilePOS-Releases/releases/download/v2.0.50/VetriPOS-2.0.50-setup.exe",
       "sha256Windows": "310aa147051117da961d6d7397cdda400d07924dcc333d0118870ca81ca3122a",
       "isMandatory": false,
       "minVersionCode": 0,
-      "rolloutPercent": 0,
+      "rolloutPercent": 100,
       "installArgs": "/quiet /norestart",
-      "shopTypes": [],
+      "shopTypes": ["restaurant:],
       "excludeShopTypes": [],
       "onlyMachineIds": [],
       "excludeMachineIds": [],
       "shopUsernames": [],
-      "testMachineIds": [
-        "010203040506"
-      ]
+      "testMachineIds": []
     },
     {
       "version": "2.0.49",
