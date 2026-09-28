@@ -22,16 +22,14 @@
       "sha256Windows": "0892515db5b28c1a792756ca78f1136cdffdd8be6f0b70ce98c5921316a68ce7",
       "isMandatory": false,
       "minVersionCode": 0,
-      "rolloutPercent": 0,
+      "rolloutPercent": 100,
       "installArgs": "/quiet /norestart",
-      "shopTypes": [],
+      "shopTypes": ["RESTAURANT"],
       "excludeShopTypes": [],
       "onlyMachineIds": [],
       "excludeMachineIds": [],
       "shopUsernames": [],
-      "testMachineIds": [
-        "010203040506"
-      ]
+      "testMachineIds": []
     },
     {
       "version": "2.0.50",
