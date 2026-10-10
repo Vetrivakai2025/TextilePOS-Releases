@@ -22,16 +22,14 @@
       "sha256Windows": "acf4eac957bca58586b0868fbeadcc6ba336ea5e1498fa2dc35f49c40d6bca9e",
       "isMandatory": false,
       "minVersionCode": 0,
-      "rolloutPercent": 0,
+      "rolloutPercent": 100,
       "installArgs": "/quiet /norestart",
-      "shopTypes": [],
+      "shopTypes": ['RESTAURANT','SWEETS'],
       "excludeShopTypes": [],
       "onlyMachineIds": [],
       "excludeMachineIds": [],
       "shopUsernames": [],
-      "testMachineIds": [
-        "010203040506"
-      ]
+      "testMachineIds": []
     },
     {
       "version": "2.0.51",
